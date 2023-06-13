@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((BASE2 $BINARY))
+echo $((BASE10$BINARY))
